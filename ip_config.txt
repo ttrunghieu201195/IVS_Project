@@ -1,0 +1,76 @@
+C:\Users\duyenmynguyen>ipconfig/all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : RVC-LT-409151
+   Primary Dns Suffix  . . . . . . . : rvc.renesas.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : rvc.renesas.com
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I219-LM
+   Physical Address. . . . . . . . . : C8-5B-76-85-32-80
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Juniper Network Connect Virtual Adapter
+   Physical Address. . . . . . . . . : 00-FF-20-F4-FE-46
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 34-F3-9A-B6-FD-D8
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 36-F3-9A-B6-FD-D7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Fortinet Virtual Ethernet Adapter (NDIS 6.30)
+   Physical Address. . . . . . . . . : 00-09-0F-FE-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 8260
+   Physical Address. . . . . . . . . : 34-F3-9A-B6-FD-D7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::514b:d769:3783:ca26%9(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.5.159(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, August 4, 2020 8:02:54 AM
+   Lease Expires . . . . . . . . . . : Tuesday, August 4, 2020 12:02:54 PM
+   Default Gateway . . . . . . . . . : 192.168.5.1
+   DHCP Server . . . . . . . . . . . : 192.168.5.1
+   DHCPv6 IAID . . . . . . . . . . . : 137687962
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-21-1E-DD-B2-C8-5B-76-85-32-80
+   DNS Servers . . . . . . . . . . . : 10.200.33.1
+                                       10.200.33.2
+                                       192.168.3.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
